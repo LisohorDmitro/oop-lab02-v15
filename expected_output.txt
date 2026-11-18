@@ -1,0 +1,11 @@
+Self-checks: PASS
+Enter raw whole and fractional parts of a: 
+Enter raw whole and fractional parts of b: 
+a = 2.5000
+b = -1.2500
+a + b = 1.2500
+a - b = 3.7500
+a * b = -3.1250
+a == b: false; a < b: false; a > b: true
+Raw (-1,7500) = -0.2500
+Expected error: Fraction must be 0..9999
